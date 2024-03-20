@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+    
+body{
+    background-color: violet;
+}
+
+
+.inputFeild{
+    width: 30vw;
+    height: 10vh;
+    border-radius: 15px;
+    margin: 250px auto;
+    position: relative;
+    font-size: 1.3rem;
+    background-color: white;
+    display: flex;
+
+
+}
+
+.inputFeild input{
+    height: 10vh;
+    width: 25vw;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    padding: 20px;
+    font-size: 1.8rem;
+    color: black;
+}
+
+.hide{
+  height: 3.5rem;
+  margin: 2px;
+   
+}
+
+img{
+    cursor: pointer;
+    
+}
+
+
+
+.show{
+    display: none;
+}
+
+
